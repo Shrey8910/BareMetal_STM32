@@ -50,10 +50,3 @@ return 0;
 *(volatile uint32_t *) (0x48000800 + 0x14) |= (1 << 3);
 *(volatile uint32_t *) (0x48000800 + 0x14) &= ~(1 << 3);
 
-
-
-int main()
-{
-    printf("hey");
-    return 0; 
-}*/
