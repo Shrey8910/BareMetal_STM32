@@ -8,7 +8,7 @@ Shows complete bare-metal workflow: startup code, vector table, linker script, M
 Built with GNU Arm Embedded Toolchain (arm-none-eabi-gcc).
 
 # Tech Stack
-Language: C (No use of any inbuild C libraries), ARM Assembly
+Language: C (No use of any inbuilt C libraries), ARM Assembly
 
 Toolchain: GNU Arm Embedded Toolchain (arm-none-eabi-gcc)
 
