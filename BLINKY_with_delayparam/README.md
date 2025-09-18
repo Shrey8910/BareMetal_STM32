@@ -23,7 +23,8 @@ Example: Address 0x0800F800 (choose according to linker script).
 
 Reset the MCU — the LED now blinks with the new delay.
 
-📸 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/f9b1f6ff-0851-4cb1-b2e5-06a13ba9b5a7" />
+📸 <img width="2878" height="1774" alt="image" src="https://github.com/user-attachments/assets/57f84269-48e7-4cd7-895d-618c09be1390" />
+
 
 
 Safety Checks
